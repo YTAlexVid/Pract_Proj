@@ -1,0 +1,6 @@
+d BrilliantDiamond 1.2 0.98 5000 1 GIA
+e ColombianEmerald 0.8 0.85 10000 Colombia 1
+p AkoyaPearl 0.5 0.9 4500 Round Akoya
+d PrincessDiamond 1.0 0.95 8000 0 IGI
+e ZimbabweEmerald 0.7 0.88 2000 Zimbabwe 0
+p TahitianPearl 0.6 0.92 2500 Tahitian SouthSea
